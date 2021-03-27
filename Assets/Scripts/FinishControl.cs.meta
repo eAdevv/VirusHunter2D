@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f77b3a18120bae849be0846c903e7874
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canBAR: {fileID: 114070520650643072, guid: c07761a91fc0f134b9b1a0e32c6fc51d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

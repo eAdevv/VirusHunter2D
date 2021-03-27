@@ -1,0 +1,9 @@
+
+=== Wed Mar 10 20:58:36 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.visualstudio from version 2.0.2 to 2.0.3
+  com.unity.ide.vscode from version 1.2.1 to 1.2.3
